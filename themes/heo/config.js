@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '学海无涯,生活有度',
   HEO_HERO_TITLE_2: 'BORNEY.FUN',
   HEO_HERO_TITLE_3: '',
-  HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '',
+  HEO_HERO_TITLE_4: '11111',
+  HEO_HERO_TITLE_5: '22222',
   HEO_HERO_TITLE_LINK: 'https://borney.fun',
 
   // 英雄区显示三个置顶分类
