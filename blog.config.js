@@ -26,7 +26,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'borney', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '学海无涯，生活有度', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://borney.fun', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://borney.top', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Notion, 博客, blog, borney, android, ai, 机器学习, web3, 区块链, 逆向, 计算机, 编程', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''

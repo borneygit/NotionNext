@@ -16,11 +16,11 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '学海无涯,生活有度',
-  HEO_HERO_TITLE_2: 'BORNEY.FUN',
+  HEO_HERO_TITLE_2: 'BORNEY.top',
   HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: '博学之,审问之,慎思之,明辨之,笃行之',
   HEO_HERO_TITLE_5: '精华文章，思想盛宴',
-  HEO_HERO_TITLE_LINK: 'https://borney.fun',
+  HEO_HERO_TITLE_LINK: 'https://borney.top',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
